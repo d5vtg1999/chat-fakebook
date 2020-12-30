@@ -1,0 +1,13 @@
+1, SIGNUP:
+	https://fakebook-mobileapp.herokuapp.com/IT4788/signup/
+	Các tham số: phone_number, password, uuid
+
+2, LOGIN:
+	
+	https://fakebook-mobileapp.herokuapp.com/IT4788/login/
+	Các tham số: phone_number, password
+
+3, LOGOUT:
+
+	https://fakebook-mobileapp.herokuapp.com/IT4788/logout/
+	Không có thêm tham số, nhưng cần xác thực với TOKEN nhận được từ server sau khi đăng nhập (hoặc đăng ký)

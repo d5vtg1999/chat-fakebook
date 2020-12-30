@@ -3,7 +3,7 @@ const port = process.env.PORT;
 const express = require('express');
 const Message = require('./models/message');
 const Conversation = require('./models/conversation');
-const directory = '/home/d5/Web/ChatApp/www/';
+const directory = '../www/';
 
 var server = require('http').createServer(app);
 var io = require('socket.io').listen(server);

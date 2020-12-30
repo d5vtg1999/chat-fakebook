@@ -1,2 +1,7 @@
-# fakeBook-API
-<p>Các APIs phục vụ cho bài tập lớn môn học Phát triển ứng dụng đa nền tảng</p>
+Chat FakeBook
+
+How to run:
+
+- sudo mongod
+- run script /src/run.sh to start server
+- open browser and access to localhost:8888
